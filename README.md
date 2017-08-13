@@ -1,1 +1,3 @@
-Learning C++
+Algorithms,
+Data Structures,
+Object Oriented C++
