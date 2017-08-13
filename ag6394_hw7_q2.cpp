@@ -1,4 +1,13 @@
-
+// Give a recursive implement to the following functions:
+// a. int sumOfSquares(int arr[], int arrSize)
+// This function is given arr, an array of integers, and its logical size, arrSize. When called,
+// it returns the sum of the squares of each of the values in arr.
+//  bool isSorted(int arr[], int arrSize)
+//  This function is given arr, an array of integers, and its logical size, arrSize. When called,
+//    should
+// they are not.
+// return true if the elements in arr are sorted in an ascending order, or false if
+ 
 #include <iostream>
 #include <cmath>
 using namespace std;
