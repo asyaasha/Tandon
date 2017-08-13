@@ -4,27 +4,35 @@
 // This function is given a positive integer n, and
 // prints a textual image of a right triangle
 // (aligned to the left) made of n lines with asterisks.
-// For example,
-// printTriangle
-// should print:
-//   **
-//  ***
-//  ****
+// 
+// *
+// **
+// ***
+// ****
 //b. void printOpositeTriangles(int n)
 // This function is given a positive integer n, and
 // prints a textual image of a two opposite right
 // triangles (aligned to the left) with asterisks, each containing n lines.
 // For example,
 // ****
-// printOpositeTriangles
-// , should print:
 // ***
 // **
-// (4)
-//  * *
-//   **
-//  ***
-//  ****
+// *
+// **
+// ***
+// ****
+// c. printRuler()
+// -
+// --
+// -
+// ---
+// -
+// --
+// -
+// ---
+// -
+// --
+// -
 #include <iostream>
 using namespace std;
 
