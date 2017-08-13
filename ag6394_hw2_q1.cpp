@@ -1,4 +1,5 @@
-
+//Write a program that reads from the user two positive integers, 
+//and prints the result of when we add, subtract multiply, divide, div and mod them.
 
 #include <iostream>
 using namespace std;
